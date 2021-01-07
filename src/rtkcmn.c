@@ -239,6 +239,7 @@ const char *formatstrs[32]={    /* stream format strings */
     "RINEX CLK",                /* 19 */
     "SBAS",                     /* 20 */
     "NMEA 0183",                /* 21 */
+    "HYFIX",                /* 22 */
     NULL
 };
 static char *obscodes[]={       /* observation code strings */
